@@ -55,7 +55,7 @@ nav form{
 
 header{
     padding-top: 6%;
-    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/header.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(header.jpg);
     height: 60vh;
     background-size: cover;
     background-attachment: fixed;
